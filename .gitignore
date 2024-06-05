@@ -1,0 +1,8 @@
+# ignore all generated python files
+.venv
+.vscode
+.idea
+.gitattributes
+.git
+
+
